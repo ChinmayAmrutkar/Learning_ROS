@@ -90,7 +90,9 @@ After drawing, the turtle teleports to a resting position, and the pen is turned
 ---
 
 ## Expected Output
-When executed, the TurtleSim window will display the turtle drawing the letters **H** and **I** sequentially with red lines.
+When executed, the TurtleSim window will display the turtle drawing the letters **H** and **I** sequentially with red lines. <br>
+<br>
+![TurtleSim_Letter_Drawing](https://github.com/user-attachments/assets/86514814-4f9a-409b-9902-5a01a1defe9b)
 
 ---
 
