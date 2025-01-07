@@ -30,8 +30,8 @@ This repository is a personal learning journey through ROS, structured in the wa
 - **ROS Tutorials - ROS Noetic For Beginners - YouTube Playlist by Robotics Back-End**:
     - A ROS Noetic Crash Course designed to clarify the basics.
     - Best for beginners looking for structured learning.
-    - Explore my repository showcasing work based on this playlist:
-      [Learning ROS Repository](https://github.com/ChinmayAmrutkar/Learning_ROS/tree/main/my_robot_contoller)
+    - Explore my repository showcasing work based on this playlist:<br>
+      [Github repository](https://github.com/ChinmayAmrutkar/Learning_ROS/tree/main/my_robot_contoller)
     - [YouTube Playlist Link](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q)
 
 
