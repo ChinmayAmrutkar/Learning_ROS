@@ -31,8 +31,9 @@ This repository is a personal learning journey through ROS, structured in the wa
     - A ROS Noetic Crash Course designed to clarify the basics.
     - Best for beginners looking for structured learning.
     - Explore my repository showcasing work based on this playlist:<br>
-      [Github repository](https://github.com/ChinmayAmrutkar/Learning_ROS/tree/main/my_robot_contoller)
-    - [YouTube Playlist Link](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q)
+            - [Github repository](https://github.com/ChinmayAmrutkar/Learning_ROS/tree/main/my_robot_contoller)
+    - Course Link:<br>
+            - [YouTube Playlist Link](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q)
 
 
 This repository is a work in progress, and more examples and projects will be added soon. Stay tuned!
