@@ -5,6 +5,8 @@
 - [System Requirements](#system-requirements)
 - [Starting with Learning Linux Commands](#starting-with-learning-linux-commands)
 - [Starting with Basics of ROS](#starting-with-basics-of-ros)
+- [Projects](#projects)
+  - [ROS Basics](#ros-basics)
 
 ## Overview
 This repository is a personal learning journey through ROS, structured in the way I learned, to provide examples and resources for understanding core ROS concepts, such as nodes, topics, and services.
@@ -35,5 +37,17 @@ This repository is a personal learning journey through ROS, structured in the wa
     - Course Link:<br>
             - [YouTube Playlist Link](https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q)
 
+## Projects
+### ROS Basics
+1. **TurtleSim Letter Drawing Project**
+   - This project demonstrates fundamental concepts of ROS (Robot Operating System) through the TurtleSim simulation.
+   - Understand ROS concepts such as nodes, topics, publishers, subscribers, and services.
+   - Use the TurtleSim simulation to apply these concepts in a visually interactive way.
+   - Create a modular and reusable codebase for drawing shapes and letters using a turtle.
+   - [More Details](https://github.com/ChinmayAmrutkar/Learning_ROS/blob/main/TurtleSim_Letter_Drawing/readme.md)
 
-This repository is a work in progress, and more examples and projects will be added soon. Stay tuned!
+
+<p align="center">
+  <em>This repository is a work in progress, and more examples and projects will be added soon. Stay tuned!</em>
+</p>
+
